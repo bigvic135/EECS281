@@ -1,0 +1,5 @@
+1 3 3
+// lots of doors
+@aA
+AAA
+AA?

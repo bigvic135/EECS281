@@ -1,0 +1,6 @@
+3 7 4
+// going two floors down
+@.....A
+.c.#C##
+####.a.
+?..A.^^

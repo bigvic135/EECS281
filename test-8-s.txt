@@ -1,0 +1,5 @@
+3 3 3
+// if there is no solution and walls blocking everything
+?#c
+##.
+@aA

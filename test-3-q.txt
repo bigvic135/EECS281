@@ -1,0 +1,6 @@
+2 7 4
+// going two floors up
+@.....A
+.b.#B##
+####.a.
+?..b.^^
