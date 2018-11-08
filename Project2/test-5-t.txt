@@ -1,0 +1,15 @@
+COMMENT: no orders for stock, change and don’t change potential price, no valid pairs, profit < 0
+MODE: TL
+NUM_TRADERS: 3
+NUM_STOCKS: 4
+0 SELL T0 S1 $25 #13
+0 BUY T1 S1 $80 #14
+1 SELL T2 S1 $10 #7
+1 BUY T0 S1 $70 #5
+1 SELL T2 S2 $8 #10
+2 BUY T1 S2 $80 #5
+3 SELL T2 S2 $1 #7
+4 BUY T0 S2 $5 #10
+5 SELL T1 S3 $20 #10
+6 SELL T2 S3 $85 #20
+7 BUY T0 S3 $85 #15

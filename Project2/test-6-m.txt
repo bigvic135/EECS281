@@ -1,0 +1,11 @@
+COMMENT: median test, stock traded at earlier timestamp, then no trades following timestamp
+MODE: TL
+NUM_TRADERS: 4
+NUM_STOCKS: 3
+0 BUY T2 S2 $100 #100
+0 SELL T2 S2 $50 #1
+0 SELL T3 S2 $99 #105
+0 BUY T1 S1 $80 #400
+0 BUY T0 S2 $150 #9
+1 SELL T3 S2 $4 #60
+3 SELL T3 S1 $1 #400
